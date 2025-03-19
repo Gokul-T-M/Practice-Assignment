@@ -116,5 +116,3 @@ select ename, job, sal, deptno from emp
 where not(deptno = 30 and job = 'salesman');
 
 
-
-
